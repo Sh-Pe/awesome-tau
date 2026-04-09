@@ -10,6 +10,7 @@
 
 ## General
 - [מידע אישי ישן](https://ims.tau.ac.il/TalSSO/Sys/Main.aspx)
+- [מידע אישי חדש](https://my.tau.ac.il/TAU_Student)
 - [חלופה לטאו פקטור, אתר לתכנון מערכת, חיפוש קורסים, ועוד](https://arazim-project.com)
 - [חלופה אחרת לטאו פקטור](https://pi-factor.vercel.app/)
 - [עוד אתר נחמד לתכנון מערכת וביקרות לקורסים](https://www.tau-plan.com/reviews)
