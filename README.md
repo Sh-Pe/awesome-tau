@@ -4,7 +4,7 @@
 - [הענן של הטכניון](https://drive.google.com/drive/folders/16g08YIerCR2YX-NcgI8bzy7sRA3xIi7t)
 - [הענן של בר־אילן](https://drive.google.com/drive/folders/13newjjkBIuE0UtTS14G-NZ8St0I6HRnm)
 - [הענן של פיזיקה (סתם לכיף)](https://drive.google.com/drive/u/0/folders/1Vba_qAu3R5IepUAa7nxo_eNMVB3ZQywy)
-- [האתר של גינסבורג](https://www.math.tau.ac.il/~ginzburg/Linear_Algebra1_math.html)
+- [האתר של גינסבורג](https://www.math.tau.ac.il/~ginzburg)
 - [הגיטהאב של שחר פרץ](https://github.com/Sh-Pe/cs-tau-shpe/tree/master/src)
 - [שרת וידאו להקלטות חופשיות של קורסים עד 2020](https://yoderby.github.io/TauVid/#)
 
