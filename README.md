@@ -26,4 +26,3 @@
 - [מתמטיקה חפירות](http://tinyurl.com/mfjz6cp7)
 - [מדמ״ח חפירות 1](http://chat.whatsapp.com/LAX1WVxcc3VDGa8bALKxXG)
 - [מדמ״ח חפירות 2](http://chat.whatsapp.com/CvPb8mQqpds2UwSdcYSMzT)
-- [קישור לאודיסאה התראות](https://chat.whatsapp.com/DaImLUoYtv46jQdGSvwWDi)
