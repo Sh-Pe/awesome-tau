@@ -1,4 +1,6 @@
 # Useful links etc. at Tel-Aviv University (TAU)
+**האתרים ברשימה זו לא בשליטתנו וכל נזק שנגרם כתוצאה משימוש בהם אינו באחריותנו**
+
 ## Online file drives
 - [הענן של תל־אביב](https://drive.google.com/drive/folders/0B3wlobDeMLQ1TlhDZE9mcnBfakU?resourcekey=0-1r80-tW4nAl_ES3oI9mTIg)
 - [הענן של הטכניון](https://drive.google.com/drive/folders/16g08YIerCR2YX-NcgI8bzy7sRA3xIi7t)
@@ -11,9 +13,11 @@
 ## General
 - [מידע אישי ישן](https://ims.tau.ac.il/TalSSO/Sys/Main.aspx), ו[הרחבה של ארזים שמחזירה אותו לחיים](https://chromewebstore.google.com/detail/return-old-ims/liagegnhkdecpoajahgfnopicjagpmck) (שימו לב להוריד www מה־url)
 - [מידע אישי חדש](https://my.tau.ac.il/TAU_Student)
-- [חלופה לטאו פקטור, אתר לתכנון מערכת, חיפוש קורסים, ועוד](https://arazim-project.com)
-- [חלופה אחרת לטאו פקטור](https://pi-factor.vercel.app/)
-- [עוד אתר נחמד לתכנון מערכת וביקרות לקורסים](https://www.tau-plan.com/reviews)
+- [טאו+: חלופה לארזים](https://tau-plus.com)
+- [ארזים: אתר לתכנון מערכת, חיפוש קורסים, צפיה בציוני עבר, ועוד](https://arazim-project.com)
+- [פאי פקטור: אתר אחר לצפייה בציוני עבר](https://pi-factor.vercel.app/)
+- [טאו פלאן: עוד אתר נחמד לתכנון מערכת וביקרות לקורסים](https://www.tau-plan.com/reviews)
+- [משבצת: אתר אחר שמסוגל לפרסר ידיעונים](https://noroz123n.github.io/mishbetzet/)
 - אתרים למציאת דרישות קדם (כולם זוועה):
 [1](https://ilayws.github.io/skilltree.html), 
 [2](https://yeahboyyyyy.github.io/CoursesDependency/)
