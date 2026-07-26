@@ -4,7 +4,8 @@
 ## Online file drives
 - [הענן של תל־אביב](https://drive.google.com/drive/folders/0B3wlobDeMLQ1TlhDZE9mcnBfakU?resourcekey=0-1r80-tW4nAl_ES3oI9mTIg)
 - [הענן של הטכניון](https://drive.google.com/drive/folders/16g08YIerCR2YX-NcgI8bzy7sRA3xIi7t)
-- [הענן של בר־אילן](https://drive.google.com/drive/folders/13newjjkBIuE0UtTS14G-NZ8St0I6HRnm)
+- [הענן הנדסה בבר־אילן](https://drive.google.com/drive/folders/13newjjkBIuE0UtTS14G-NZ8St0I6HRnm)
+- [ענני מדויקים בבר־אילן](https://docs.google.com/document/d/1CyqnkG_KOZ_lvTx7wjNePfuybWoGnILLS9GaixNBYfg/edit?tab=t.0)
 - [הענן של פיזיקה (סתם לכיף)](https://drive.google.com/drive/u/0/folders/1Vba_qAu3R5IepUAa7nxo_eNMVB3ZQywy)
 - [האתר של גינסבורג](https://www.math.tau.ac.il/~ginzburg)
 - [הגיטהאב של שחר פרץ](https://github.com/Sh-Pe/cs-tau-shpe/tree/master/src)
