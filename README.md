@@ -25,9 +25,3 @@
 - [נהלי תלמידים במעמד מיוחד/שלא מן המניין/על תנאי (אלו שלושה דברים שונים)](https://m.tau.ac.il/sites/default/files/media_server/Gene)
 - [הרחבה להורדת הקלטות מהפנפטו](https://greasyfork.org/en/scripts/423661-panopto-video-dl) (צריך להתקין TamperMonkey כדי שזה יעבוד) (השימוש בהרחבה לא חוקי, והיא מסופקת כאן למטרות העשרה ולימוד קידוד בלבד)
 
-## WhatsApp Groups etc.
-- [דיסקורד מדוייקים](https://discord.gg/tbtrnXyCaC)
-- [טבלת קישורים לקבוצות וואטסאפ של קורסים ב-26B (מדמ״ח/מתמטיקה)](https://tinyurl.com/math2026B) ו[ל־26A](https://tinyurl.com/math2026A)
-- [מתמטיקה חפירות](http://tinyurl.com/mfjz6cp7)
-- [מדמ״ח חפירות 1](http://chat.whatsapp.com/LAX1WVxcc3VDGa8bALKxXG)
-- [מדמ״ח חפירות 2](http://chat.whatsapp.com/CvPb8mQqpds2UwSdcYSMzT)
